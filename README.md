@@ -2,9 +2,9 @@
 >This project explores the use of semantic similarity to find similarities between words, sentences, and short passages, using Natural Language Processing (NLP).
 
 ## Contents
-1. [Natural Language Processing]()
-2. [Install]()
-2. [Usage]()
+1. [Natural Language Processing](https://github.com/ZarahS/Semantic-Similarity#natural-language-processing)
+2. [Install](https://github.com/ZarahS/Semantic-Similarity#install)
+2. [Usage](https://github.com/ZarahS/Semantic-Similarity#usage)
 
 ## Natural Language Processing 
 
