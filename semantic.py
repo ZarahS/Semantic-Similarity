@@ -51,8 +51,8 @@ for sentence in sentences:
 # Write a note on what you notice is different from the model "en_core_web_md".
 
 # A userWarning message pops up when running this file with "en_core_web_sm" 
-# indicating that this model hasn't been trained with word vectors but own vectors can be loaded ot
-# a larger model can be used. The md model comes with vectors loaded.
+# indicating that this model hasn't been trained with word vectors but can load own vectors.
+# The md model comes with vectors loaded.
 
 # The "en_core_web_md" is a larger, more complex model with more parameters and therefore more information, 
 # while the "en_core_web_sm" is a smaller, simpler model with fewer parameters. 
