@@ -26,7 +26,7 @@ To download the english language model, copy the code below:
 $ python3 -m spacy download en_core_web_md
 ```
 
-### Usage
+## Usage
 
 To run the program, install the components above and enter the following into the terminal:
 ```
