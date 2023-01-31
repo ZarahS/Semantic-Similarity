@@ -17,13 +17,13 @@ SpaCy is a library for NLP in Python, providing pre-trained models and functiona
 The spaCy library can be installed by entering the following code into the terminal:
 
 ``` 
-pip3 install spacy
+$ pip3 install spacy
 ```
 
 To download the english language model, copy the code below:
 
 ```
-python3 -m spacy download en_core_web_md
+$ python3 -m spacy download en_core_web_md
 ```
 
 ### Usage
