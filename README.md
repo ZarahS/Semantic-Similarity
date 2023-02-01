@@ -10,7 +10,7 @@
 
 Natural Language Processing (NLP) is a field of computer science and artificial intelligence pertaining to the interactions between computers and human (natural) languages. NLP technologies aim to help computers process, understand, and generate human language.
 
-SpaCy is a library for NLP in Python, providing pre-trained models and functionalities for tasks such as tokenization, part-of-speech tagging, named entity recognition, and dependency parsing. It uses NLP techniques to process human language, making it an NLP library.  To use spaCy, you must first install it and its English language model.
+SpaCy is an NLP library in Python, providing pre-trained models and functionalities for tasks such as tokenization, speech tagging, named entity recognition, and dependency parsing. It uses NLP techniques to process human language. To use spaCy, you must first install it and its English language model.
 
 ## Install
 
