@@ -1,3 +1,5 @@
+# Program that will tell you what to watch next based on the word vector similarity of movie descriptions.
+
 # Import spacy module
 import spacy
 
