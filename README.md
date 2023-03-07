@@ -1,5 +1,5 @@
 # Semantic-Similarity
->This project explores the use of semantic similarity to find similarities between words, sentences, and short passages, using Natural Language Processing (NLP). This program suggests what movie a user should watch next based on the last movie they watched.
+>This project explores the use of semantic similarity to find similarities between words, sentences, and short passages, using Natural Language Processing (NLP). This program recommends a movie to the user based on their watch history.
 
 ## Contents
 1. [Natural Language Processing](https://github.com/ZarahS/Semantic-Similarity#natural-language-processing)
